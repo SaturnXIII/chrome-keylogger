@@ -2,11 +2,14 @@
 Chrome extention keylogger for telegram 📦📨
 
 
-
+<br>
+thanks to https://github.com/abugraokkali/chrome-keylogger
 
 
 
 >🔥TOTAL FUD🔥 and anonyme
+>
+![image](https://github.com/SaturnXIII/chrome-keylogger/assets/110695125/7791e8ae-6998-4756-9e9c-f282e3949ccd)
 
 
 >## Build👩‍💻
