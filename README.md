@@ -23,7 +23,7 @@ Then drag the files from my repository into it by replacing the manifest.json.
 Then all you have to do is enter your log into the termis.js code and obfuscate it if necessary.
 
 <br>
-
+🚨 Only for educational purposes🚨
 
 ###### I am not guilty of actions done with this program. #####
  ###### any suggestion to saturnXIII@proton.me #####
