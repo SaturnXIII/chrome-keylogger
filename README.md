@@ -25,9 +25,5 @@ Then all you have to do is enter your log into the termis.js code and obfuscate 
 <br>
 🚨 Only for educational purposes🚨
 
-###### I am not guilty of actions done with this program. #####
- ###### any suggestion to saturnXIII@proton.me #####
-######
-###### put to good use #####
-╭∩╮(-_-)╭∩╮
-######
+> This project is for educational and ethical purposes only. Any illegal or malicious use is strictly prohibited.
+The author assumes no responsibility for any misuse. Use only in controlled environments and with proper authorization. 
